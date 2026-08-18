@@ -1,0 +1,7 @@
+slug: bgp-poison-lab
+title: BGP Poison Lab
+category: networking
+difficulty: hard
+points: 425
+codec: fernet
+repo_url: https://github.com/sparflag/bgp-poison-lab
